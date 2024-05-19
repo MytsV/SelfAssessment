@@ -1,35 +1,35 @@
 ## .NET
 
 - Core Concepts and Internals
-  - Strengths and weaknesses of .NET +
-  - Stateful and stateless services +
-  - Asynchronous and synchronous programming +
+  - Strengths and weaknesses of .NET: 🎓 known
+  - Stateful and stateless services: 🎓 known
+  - Asynchronous and synchronous programming: 🎓 known
   - Task-based asynchronous pattern
-  - Garbage collection in .NET +
-  - .NET runtime versions and support ~
-  - I/O-bound, CPU-bound tasks +
+  - Garbage collection in .NET: 🎓 known
+  - .NET runtime versions and support: 👂 heard
+  - I/O-bound, CPU-bound tasks: 🎓 known
   - Real-time applications with SignalR
 - Modularity and Dependencies
   - .NET assemblies
-  - NuGet package management *
-  - Dependency management in .NET +
-  - Dependency Injection in .NET +
-  - Inversion of Control (IoC) +
+  - NuGet package management: 🖐️ used
+  - Dependency management in .NET: 🎓 known
+  - Dependency Injection in .NET: 🎓 known
+  - Inversion of Control (IoC): 🎓 known
   - IoC containers in .NET
   - Middleware and pipeline configuration
   - Modular applications
 - Environment and Tools
-  - Command line interface (CLI) tools *
-  - .NET CLI *
-  - Windows Services and Linux Daemons *
+  - Command line interface (CLI) tools: 🖐️ used
+  - .NET CLI: 🖐️ used
+  - Windows Services and Linux Daemons: 🖐️ used
   - Hosting and Deployment models
   - IIS and Kestrel web server
-  - Environment variables and configuration *
-  - File system I/O operations *
+  - Environment variables and configuration: 🖐️ used
+  - File system I/O operations: 🖐️ used
   - Multithreading with Task Parallel Library (TPL)
   - Performance monitoring and diagnostics
 - APIs and Framework Features
-  - LINQ *
+  - LINQ: 🖐️ used
   - SignalR for real-time web functionality
   - High-performance RPC with `gRPC`
   - Security features (authentication, authorization)
@@ -46,19 +46,19 @@
   - Network security (DDoS, XSS, CSRF prevention)
   - Serialization and deserialization (JSON, XML)
 - Testing and Debugging
-  - Unit testing with frameworks like xUnit, NUnit *
+  - Unit testing with frameworks like xUnit, NUnit: 🖐️ used
   - Integration testing
   - Logging and tracing
   - Application monitoring and telemetry
   - Debugging tools and strategies
   - Performance profiling and analysis
 - Data Access and ORM
-  - Entity Framework Core *
+  - Entity Framework Core: 🖐️ used
   - Dapper
-  - ADO.NET for database access ~
-  - Data modeling and migration +
+  - ADO.NET for database access: 👂 heard
+  - Data modeling and migration: 🎓 known
   - Repository and Unit of Work patterns
-  - CRUD operations +
+  - CRUD operations: 🎓 known
 - Error Handling and Debugging
   - Exception handling in .NET
   - Custom error classes
@@ -74,16 +74,16 @@
 - Cloud and Microservices
   - Integration with cloud platforms (Azure, AWS)
   - Microservices architecture
-  - Containerization with Docker *
+  - Containerization with Docker: 🖐️ used
   - Kubernetes for orchestration
   - Serverless computing
 - C# Development
-  - C# syntax and language fundamentals !
-  - Advanced C# features (LINQ, async/await, delegates, events) !
-  - Reflection and dynamic programming !
-  - Data types and collections !
-  - Generics and extension methods !
-  - Attributes and annotations !
+  - C# syntax and language fundamentals: 🙋 explained
+  - Advanced C# features (LINQ, async/await, delegates, events): 🙋 explained
+  - Reflection and dynamic programming: 🙋 explained
+  - Data types and collections: 🙋 explained
+  - Generics and extension methods: 🙋 explained
+  - Attributes and annotations: 🙋 explained
   - Interoperability with other .NET languages
 - `F#` Development
   - `F#` syntax and language fundamentals
@@ -122,7 +122,7 @@
 - Game development
   - Unity
 - Web development
-  - ASP.NET Core *
+  - ASP.NET Core: 🖐️ used
   - Blazor
-  - Razor Syntax *
-  - RESTful API development *
+  - Razor Syntax: 🖐️ used
+  - RESTful API development: 🖐️ used
