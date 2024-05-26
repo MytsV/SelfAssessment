@@ -1,156 +1,137 @@
 ## Java
 - Code basics
-  - Variables !
-  - Primitive types !
-  - `String` !
-  - `Object` !
-  - Arithmetic operators !
-  - Boolean operators !
-  - Complex conditions !
-  - `if/else` !
-  - `switch` !
-  - Arrays !
-  - `for` loop !
-  - `while` loop !
-  - `do ... while` loop !
-  - foreach loop !
-  - `try/catch` !
-  - Checked exceptions !
-  - Unchecked exceptions !
-  - Errors !
-  - `List` !
-  - `Set` !
-  - `Map` !
-  - `Collection`, `Iterable` !
-
+  - Variables: 🙋 explained
+  - Primitive types: 🙋 explained
+  - `String`: 🙋 explained
+  - `Object`: 🙋 explained
+  - Arithmetic operators: 🙋 explained
+  - Boolean operators: 🙋 explained
+  - Complex conditions: 🙋 explained
+  - `if/else`: 🙋 explained
+  - `switch`: 🙋 explained
+  - Arrays: 🙋 explained
+  - `for` loop: 🙋 explained
+  - `while` loop: 🙋 explained
+  - `do ... while` loop: 🙋 explained
+  - foreach loop: 🙋 explained
+  - `try/catch`: 🙋 explained
+  - Checked exceptions: 🙋 explained
+  - Unchecked exceptions: 🙋 explained
+  - Errors: 🙋 explained
+  - `List`: 🙋 explained
+  - `Set`: 🙋 explained
+  - `Map`: 🙋 explained
+  - `Collection`, `Iterable`: 🙋 explained
 - Methods
-  - Arguments !
-  - Return type !
-  - Method signature !
-  - Method overloading !
-  - `varargs` !
-
+  - Arguments: 🙋 explained
+  - Return type: 🙋 explained
+  - Method signature: 🙋 explained
+  - Method overloading: 🙋 explained
+  - `varargs`: 🙋 explained
 - Recursion !
-
 - Classes and objects
-  - Properties !
-  - Methods !
-  - `static` !
-  - Constructors !
-  - `final` !
-  - `this` !
-  - Initializer !
-  - Mutable and immutable objects !
-
+  - Properties: 🙋 explained
+  - Methods: 🙋 explained
+  - `static`: 🙋 explained
+  - Constructors: 🙋 explained
+  - `final`: 🙋 explained
+  - `this`: 🙋 explained
+  - Initializer: 🙋 explained
+  - Mutable and immutable objects: 🙋 explained
 - Enum classes !
-
 - Class `Object` !
-  - `toString()` !
-  - `equals(), hashcode()` !
-
+  - `toString()`: 🙋 explained
+  - `equals(), hashcode()`: 🙋 explained
 - Packages !
-
 - Annotations
-  - Built-in Annotations (`@Override`, `@Deprecated`) !
-  - Documentation Annotations !
-  - Creating custom annotations *
-  - RetentionPolicy ~
+  - Built-in Annotations (`@Override`, `@Deprecated`): 🙋 explained
+  - Documentation Annotations: 🙋 explained
+  - Creating custom annotations: 🖐️ used
+  - RetentionPolicy: 👂 heard
   - Annotation Inheritance
   - Annotation Processing
-
 - Object-Oriented Programming (OOP)
-  - Abstraction !
-  - Encapsulation !
-  - Inheritance !
-  - Polymorphism !
-  - Abstract class !
-  - Abstract method !
-  - Interface !
-  - `final` class +
-  - `final` method +
-  - `final` property !
-  - Nested class +
-  - Inner class +
-  - `public` !
-  - `private` !
-  - `protected` !
-  - package-private +
-  - Cast operator !
-  - `instanceof` !
-
+  - Abstraction: 🙋 explained
+  - Encapsulation: 🙋 explained
+  - Inheritance: 🙋 explained
+  - Polymorphism: 🙋 explained
+  - Abstract class: 🙋 explained
+  - Abstract method: 🙋 explained
+  - Interface: 🙋 explained
+  - `final` class: 🎓 known
+  - `final` method: 🎓 known
+  - `final` property: 🙋 explained
+  - Nested class: 🎓 known
+  - Inner class: 🎓 known
+  - `public`: 🙋 explained
+  - `private`: 🙋 explained
+  - `protected`: 🙋 explained
+  - package-private: 🎓 known
+  - Cast operator: 🙋 explained
+  - `instanceof`: 🙋 explained
 - Generics
-  - Class with type arguments !
-  - Method with type arguments *
-  - Bounded type arguments *
-  - Type erasure ~
-  - Type inference +
-  - Diamond operator `<>` !
-  - Unbounded wildcard *
-  - Upper-bounded wildcard *
-  - Lower-bounded wildcard ~
-
+  - Class with type arguments: 🙋 explained
+  - Method with type arguments: 🖐️ used
+  - Bounded type arguments: 🖐️ used
+  - Type erasure: 👂 heard
+  - Type inference: 🎓 known
+  - Diamond operator `<>`: 🙋 explained
+  - Unbounded wildcard: 🖐️ used
+  - Upper-bounded wildcard: 🖐️ used
+  - Lower-bounded wildcard: 👂 heard
 - Functional programming
-  - Functional interfaces !
-  - Lambdas !
-  - Method references !
-  - Java Stream API !
-
+  - Functional interfaces: 🙋 explained
+  - Lambdas: 🙋 explained
+  - Method references: 🙋 explained
+  - Java Stream API: 🙋 explained
 - Input/Output
-  - `InputStream` and `OutputStream` !
-  - `try/catch` with resource !
-  - `Scanner` !
-  - `ByteArrayOutputStream` ~
-  - `ByteArrayInputStream` ~
-  - `DataOutputStream` ~
-  - `DataInputStream` ~
-
+  - `InputStream` and `OutputStream`: 🙋 explained
+  - `try/catch` with resource: 🙋 explained
+  - `Scanner`: 🙋 explained
+  - `ByteArrayOutputStream`: 👂 heard
+  - `ByteArrayInputStream`: 👂 heard
+  - `DataOutputStream`: 👂 heard
+  - `DataInputStream`: 👂 heard
 - Readers and Writers
-  - `OutputStreamWriter` *
-  - `InputStreamReader` *
-  
+  - `OutputStreamWriter`: 🖐️ used
+  - `InputStreamReader`: 🖐️ used
 - Serialization !
-
 - Working with files
-  - `BufferedOutputStream` ~
-  - `BufferedInputStream` ~
-  - `BufferedWriter` ~
-  - `BufferedReader` ~
-  - `File` !
-  - `RandomAccessFile` ~
-  - `FileInputStream` *
-  - `FileOutputStream` *
-
+  - `BufferedOutputStream`: 👂 heard
+  - `BufferedInputStream`: 👂 heard
+  - `BufferedWriter`: 👂 heard
+  - `BufferedReader`: 👂 heard
+  - `File`: 🙋 explained
+  - `RandomAccessFile`: 👂 heard
+  - `FileInputStream`: 🖐️ used
+  - `FileOutputStream`: 🖐️ used
 - Multithreading
-  - `Thread` !
-  - `Runnable` !
-  - `Semaphore` !
-  - `Lock` !
-  - Atomic types and operations !
-  - Monitors !
-  - `synchronized` methods !
-  - `synchronized` blocks !
-  - Synchronized collections *
-  - Dead locks, race conditions !
-
+  - `Thread`: 🙋 explained
+  - `Runnable`: 🙋 explained
+  - `Semaphore`: 🙋 explained
+  - `Lock`: 🙋 explained
+  - Atomic types and operations: 🙋 explained
+  - Monitors: 🙋 explained
+  - `synchronized` methods: 🙋 explained
+  - `synchronized` blocks: 🙋 explained
+  - Synchronized collections: 🖐️ used
+  - Dead locks, race conditions: 🙋 explained
 - Date/Time API *
-
 - Testing
-  - JUnit *
+  - JUnit: 🖐️ used
   - TestNG
   - Hamcrest matchers
   - Parametrized tests
-  - Mocking and stubbing (Mockito/EasyMock) *
-  - Exception testing *
-
+  - Mocking and stubbing (Mockito/EasyMock): 🖐️ used
+  - Exception testing: 🖐️ used
 - Building
   - Maven
-  - Gradle *
+  - Gradle: 🖐️ used
   - Build lifecycle
   - Plugin management
-
 - Spring Framework
-  - Spring Core *
+  - Spring Core: 🖐️ used
   - Spring Boot
-  - Spring MVC *
+  - Spring MVC: 🖐️ used
   - Spring Data
   - Spring Security
