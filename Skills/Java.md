@@ -1,28 +1,27 @@
 ## Java
 - Code basics
-  - Variables !
-  - Primitive types !
-  - `String` !
-  - `Object` !
-  - Arithmetic operators !
-  - Boolean operators !
-  - Complex conditions !
-  - `if/else` !
-  - `switch` !
-  - Arrays !
-  - `for` loop !
-  - `while` loop !
-  - `do ... while` loop !
-  - foreach loop !
-  - `try/catch` !
-  - Checked exceptions !
-  - Unchecked exceptions !
-  - Errors !
-  - `List` !
-  - `Set` !
-  - `Map` !
-  - `Collection`, `Iterable` !
-
+  - Variables: 🙋 explained
+  - Primitive types: 🙋 explained
+  - `String`: 🙋 explained
+  - `Object`: 🙋 explained
+  - Arithmetic operators: 🙋 explained
+  - Boolean operators: 🙋 explained
+  - Complex conditions: 🙋 explained
+  - `if/else`: 🙋 explained
+  - `switch`: 🙋 explained
+  - Arrays: 🙋 explained
+  - `for` loop: 🙋 explained
+  - `while` loop: 🙋 explained
+  - `do ... while` loop: 🙋 explained
+  - foreach loop: 🙋 explained
+  - `try/catch`: 🙋 explained
+  - Checked exceptions: 🙋 explained
+  - Unchecked exceptions: 🙋 explained
+  - Errors: 🙋 explained
+  - `List`: 🙋 explained
+  - `Set`: 🙋 explained
+  - `Map`: 🙋 explained
+  - `Collection`, `Iterable`: 🙋 explained
 - Methods
 - Recursion !
 - Classes and objects
@@ -30,55 +29,47 @@
 - Class `Object` !
 - Packages !
 - Annotations
-  - Built-in Annotations (`@Override`, `@Deprecated`) !
-  - Documentation Annotations !
-  - Creating custom annotations *
-  - RetentionPolicy ~
+  - Built-in Annotations (`@Override`, `@Deprecated`): 🙋 explained
+  - Documentation Annotations: 🙋 explained
+  - Creating custom annotations: 🖐️ used
+  - RetentionPolicy: 👂 heard
   - Annotation Inheritance
   - Annotation Processing
-
 - Object-Oriented Programming (OOP)
 - Generics
 - Functional programming
 - Input/Output
-	- `InputStream` and `OutputStream` !
-  - `try/catch` with resource !
-  - `Scanner` !
-  - `ByteArrayOutputStream` ~
-  - `ByteArrayInputStream` ~
-  - `DataOutputStream` ~
-  - `DataInputStream` ~
-
+  - `try/catch` with resource: 🙋 explained
+  - `Scanner`: 🙋 explained
+  - `ByteArrayOutputStream`: 👂 heard
+  - `ByteArrayInputStream`: 👂 heard
+  - `DataOutputStream`: 👂 heard
+  - `DataInputStream`: 👂 heard
 - Readers and Writers
-  - `OutputStreamWriter` *
-  - `InputStreamReader` *
-	
+  - `OutputStreamWriter`: 🖐️ used
+  - `InputStreamReader`: 🖐️ used
 - Serialization !
-
 - Working with files
-  - `BufferedOutputStream` ~
-  - `BufferedInputStream` ~
-  - `BufferedWriter` ~
-  - `BufferedReader` ~
-  - `File` !
-  - `RandomAccessFile` ~
-  - `FileInputStream` *
-  - `FileOutputStream` *
-
+  - `BufferedOutputStream`: 👂 heard
+  - `BufferedInputStream`: 👂 heard
+  - `BufferedWriter`: 👂 heard
+  - `BufferedReader`: 👂 heard
+  - `File`: 🙋 explained
+  - `RandomAccessFile`: 👂 heard
+  - `FileInputStream`: 🖐️ used
+  - `FileOutputStream`: 🖐️ used
 - Multithreading
 - Date/Time API *
 - Testing
-  - JUnit *
+  - JUnit: 🖐️ used
   - TestNG
   - Hamcrest matchers
   - Parametrized tests
-  - Mocking and stubbing (Mockito/EasyMock) *
-  - Exception testing *
-
+  - Mocking and stubbing (Mockito/EasyMock): 🖐️ used
+  - Exception testing: 🖐️ used
 - Building
   - Maven
-  - Gradle *
+  - Gradle: 🖐️ used
   - Build lifecycle
   - Plugin management
-
 - Spring Framework

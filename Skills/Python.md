@@ -1,120 +1,109 @@
 ## Python
 - Code basics
-  - Identation !
-  - Variables !
-  - Primitive types !
-  - Data structures (Lists, Tuples, Sets, Dictionaries) !
-  - Arithmetic operators !
-  - Comparison operators !
-  - Logical operators !
-  - Complex conditions !
-  - `if/else` !
-  - `for` loop !
-  - `while` loop !
-  - `break`, `continue` !
-  - Multiple return values !
-  - Lambda functions !
-  - `try/except` !
-  - `finally` !
-  - Custom exceptions *
-  - File handling !
-  - Importing modules !
-  - Using standard libraries !
-  - Creating packages *
-  - List comprehensions !
-  - Dictionary comprehensions !
-  - Slicing !
-  - Commonly used functions (e.g., `len()`, `type()`, `range()`) !
-  - Type conversion !
-
+  - Identation: 🙋 explained
+  - Variables: 🙋 explained
+  - Primitive types: 🙋 explained
+  - Data structures (Lists, Tuples, Sets, Dictionaries): 🙋 explained
+  - Arithmetic operators: 🙋 explained
+  - Comparison operators: 🙋 explained
+  - Logical operators: 🙋 explained
+  - Complex conditions: 🙋 explained
+  - `if/else`: 🙋 explained
+  - `for` loop: 🙋 explained
+  - `while` loop: 🙋 explained
+  - `break`, `continue`: 🙋 explained
+  - Multiple return values: 🙋 explained
+  - Lambda functions: 🙋 explained
+  - `try/except`: 🙋 explained
+  - `finally`: 🙋 explained
+  - Custom exceptions: 🖐️ used
+  - File handling: 🙋 explained
+  - Importing modules: 🙋 explained
+  - Using standard libraries: 🙋 explained
+  - Creating packages: 🖐️ used
+  - List comprehensions: 🙋 explained
+  - Dictionary comprehensions: 🙋 explained
+  - Slicing: 🙋 explained
+  - Commonly used functions (e.g., `len()`, `type()`, `range()`): 🙋 explained
+  - Type conversion: 🙋 explained
 - Object-oriented programming (OOP)
-  - Magic methods (__init__, __str__, __repr__, etc.) *    
-  - Property decorators +
-  - Class and static methods *
-  - Multiple Inheritance +
-  - Method resolution order +
-
+  - Magic methods (__init__, __str__, __repr__, etc.): 🖐️ used
+  - Property decorators: 🎓 known
+  - Class and static methods: 🖐️ used
+  - Multiple Inheritance: 🎓 known
+  - Method resolution order: 🎓 known
 - Intermediate concepts
-  - Custom decorators +
-  - Generators, `yield` !
-  - Context managers (`with`) for safe file handling !
-  - Regular expressions *
-  - `pdb` for debugging ~
-  - Higher-order functions (e.g., `map()`, `filter()`, `reduce()`) !
-  - Function composition and currying !
-
+  - Custom decorators: 🎓 known
+  - Generators, `yield`: 🙋 explained
+  - Context managers (`with`) for safe file handling: 🙋 explained
+  - Regular expressions: 🖐️ used
+  - `pdb` for debugging: 👂 heard
+  - Higher-order functions (e.g., `map()`, `filter()`, `reduce()`): 🙋 explained
+  - Function composition and currying: 🙋 explained
 - Threading and multiprocessing
   - Global Interpreter Lock (GIL)
   - `threading` module
-  - Locks, semaphores and condition variables ~
-  - Thread-safe data structures ~
+  - Locks, semaphores and condition variables: 👂 heard
+  - Thread-safe data structures: 👂 heard
   - `multiprocessing` module
-  - Pipes and queues for inter-process communication ~
-  - Process pools ~
-
+  - Pipes and queues for inter-process communication: 👂 heard
+  - Process pools: 👂 heard
 - Asynchronous programming
-  - `asyncio` module ~
-  - `async` / `await` keywords ~
-  - Coroutine ~
-  - Task ~
-  - Future ~
-  - Coordinating multiple asynchronous tasks (`asyncio.Lock`, `asyncio.Event`, `asyncio.Queue`) ~
-
+  - `asyncio` module: 👂 heard
+  - `async` / `await` keywords: 👂 heard
+  - Coroutine: 👂 heard
+  - Task: 👂 heard
+  - Future: 👂 heard
+  - Coordinating multiple asynchronous tasks (`asyncio.Lock`, `asyncio.Event`, `asyncio.Queue`): 👂 heard
 - Data serialization and deserialization
-  - JSON with `json` *
+  - JSON with `json`: 🖐️ used
   - XML with `xml.etree.ElementTree`, `lxml` or `xmltodict`
-  - YAML with `PyYAML` *
+  - YAML with `PyYAML`: 🖐️ used
   - Protocol Buffers with `protobuf`
-  - Overriding default serialization (`__serialize__()` and `_deserialize__()`) *
-  - Binary serialization with `pickle` *
-
+  - Overriding default serialization (`__serialize__()` and `_deserialize__()`): 🖐️ used
+  - Binary serialization with `pickle`: 🖐️ used
 - Testing
-  - `unittest` *
-  - `pytest` *
-  - Test fixtures and setup +
-  - Mocking and patching ~
-  - Measuring code coverage with `coverage.py` ~
-  - Automating GUI testing with `Selenium` *
+  - `unittest`: 🖐️ used
+  - `pytest`: 🖐️ used
+  - Test fixtures and setup: 🎓 known
+  - Mocking and patching: 👂 heard
+  - Measuring code coverage with `coverage.py`: 👂 heard
+  - Automating GUI testing with `Selenium`: 🖐️ used
   - Generating test reports with `pytest-html`
-  - Security testing ~
-
+  - Security testing: 👂 heard
 - Data analysis and visualization
-  - `numpy` *
-  - `pandas` *
-  - DataFrame *
+  - `numpy`: 🖐️ used
+  - `pandas`: 🖐️ used
+  - DataFrame: 🖐️ used
   - Handling missing data
-  - `matplotlib` *
-  - `seaborn` ~
+  - `matplotlib`: 🖐️ used
+  - `seaborn`: 👂 heard
   - `plotly`
-  - Data wrangling *
+  - Data wrangling: 🖐️ used
   - Statistical analysis with SciPy
-  - Time series analysis *
+  - Time series analysis: 🖐️ used
   - Geospatial analysis with GeoPandas, Folium or Cartopy
   - Big data processing with Apache Spark
-
 - Web Scraping
-  - HTML Parsing !
-  - `BeatifulSoup` *
-  - XPath and CSS selectors !
-  - Handling dynamic content using `Selenium` *
-  - Data cleaning ~
+  - HTML Parsing: 🙋 explained
+  - `BeatifulSoup`: 🖐️ used
+  - XPath and CSS selectors: 🙋 explained
+  - Handling dynamic content using `Selenium`: 🖐️ used
+  - Data cleaning: 👂 heard
   - Robots.txt compliance
   - Rate limiting and throttling
   - Crawling and spidering
-
 - Best practices
-  - PEP 8 guidelines +
-  - Docstrings ~
-  - Virtual Environments (virtualenv, conda) *
-  - Freezing dependencies !
-
+  - PEP 8 guidelines: 🎓 known
+  - Docstrings: 👂 heard
+  - Virtual Environments (virtualenv, conda): 🖐️ used
+  - Freezing dependencies: 🙋 explained
 - Web Development
   - Flask
-  - Django *
+  - Django: 🖐️ used
   - FastAPI
-
 - Machine learning
   - Scikit-learn
-  - TensorFlow *
-  - Keras *
+  - TensorFlow: 🖐️ used
+  - Keras: 🖐️ used
   - PyTorch

@@ -2,32 +2,31 @@
 - Continuous Integration (CI)
   - Jenkins
   - CircleCI
-  - GitHub Actions !
-  - Pipeline orchestration !
-  - Version control integration !
-  - Build automation !
-  - Test automation !
-  - Code quality analysis with linters !
+  - GitHub Actions: 🙋 explained
+  - Pipeline orchestration: 🙋 explained
+  - Version control integration: 🙋 explained
+  - Build automation: 🙋 explained
+  - Test automation: 🙋 explained
+  - Code quality analysis with linters: 🙋 explained
   - Artifact management
-  - Environment provisioning *
+  - Environment provisioning: 🖐️ used
   - IaC tools (Terraform, CloudFormation) for managing infrastructure resources
   - Security scanning and compiance (Sonatype Nexus Lifecycle, Snyk, Twistlock)
-  - Configuration and secrets management ~
-
+  - Configuration and secrets management: 👂 heard
 - Docker
-  - Dockerfile syntax !
-  - Image management (building, tagging, pushing, pulling) *
-  - Optimizing image size, layers and caching *
-  - Container lifecycle +
-  - Monitoring container status *
-  - Configuring container networking *
-  - Network modes (host, bridge, overlay, macvlan) +
-  - Docker volumes *
+  - Dockerfile syntax: 🙋 explained
+  - Image management (building, tagging, pushing, pulling): 🖐️ used
+  - Optimizing image size, layers and caching: 🖐️ used
+  - Container lifecycle: 🎓 known
+  - Monitoring container status: 🖐️ used
+  - Configuring container networking: 🖐️ used
+  - Network modes (host, bridge, overlay, macvlan): 🎓 known
+  - Docker volumes: 🖐️ used
   - Bind mounts
-  - Docker Compose !
-  - Container orchestration (Kubernetes, Docker Swarm, Amazon ECS) ~
+  - Docker Compose: 🙋 explained
+  - Container orchestration (Kubernetes, Docker Swarm, Amazon ECS): 👂 heard
   - Container security (SELinux, AppArmor, seccomp)
   - Docker Registry Management
-  - Setting up different environments (development, production) !
+  - Setting up different environments (development, production): 🙋 explained
   - Microservices deployment
   - Prometheus/Grafana
